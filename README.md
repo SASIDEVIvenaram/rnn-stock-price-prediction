@@ -1,5 +1,5 @@
 # EX-05 Stock Price Prediction
-## DATE:
+### DATE:
 ### Aim:
 To develop a Recurrent Neural Network model for stock price prediction.
 ### Problem Statement and Dataset
